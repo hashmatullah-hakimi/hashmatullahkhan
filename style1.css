@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,700');
+
+
+*
+{
+
+	margin:0px;
+	padding:0px;
+}
+#wrap{
+   border:0px solid black;
+   height:1000px;
+   width:950px;
+   margin:auto;
+}
+
+ #header{
+     background-color:#eeeeee;
+     height:80px;
+     text-align:center;
+     font-size:30px;
+
+ 
+}
+
+#menu{
+
+    background-color:#000000;
+    height:50px;
+}
+
+#menu ul{
+  list-style:none;
+}
+
+
+
+#menu ul li{
+
+  float:left;
+  color:white;
+  margin:15px;
+}
+
+#main{
+  width:940px;
+  height:350px;
+  border: 0px solid red;
+  margin:red;
+  margin-top:15px;
+  margin-left:5px;
+  margin-right:5px;
+
+
+}
+
+#first{
+  float:left;
+  width:270;
+  height:300px;
+  margin:5px;
+
+}
+
+#title{
+ 
+
+  color:orange;
+  font-size:18px;
+  font-weight:bold;
+}
+
+#content
+{
+
+  text-align:justify;
+  padding:10px;
+}
+
+#second{
+  float:left;
+  width:270px;
+  height:300px;
+  margin:5px;
+
+}
+
+#third{
+
+  float:left;
+  width:270px;
+  height:300px;
+  margin:5px;
+  
+}
+
+#Maincontent
+{
+
+  border:0px solid green;
+  height:465px;
+  width:940px;
+  margin:auto;
+  margin-top:10px;
+
+}
+
+#Maincontent img
+{
+  margin:5px;
+  padding:5px;
+}
+
+#Footer
+{
+  background-color:#eeeeee;
+  height:80px;
+  width:950px;
+  margin:auto;
+  margin-bottom:15px;
+  
+  
+}
+
+
+
+
+
